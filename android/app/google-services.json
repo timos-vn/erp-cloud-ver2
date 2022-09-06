@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "837135663484",
+    "project_id": "sse-cloud-erp",
+    "storage_bucket": "sse-cloud-erp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837135663484:android:abd802994e5db31b5ce4f9",
+        "android_client_info": {
+          "package_name": "sse.net.lobb_clound_erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837135663484-4b8gs2ptjrmcsaa9m05ueu583br2qop5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sse.net.lobb_clound_erp",
+            "certificate_hash": "eb3746282d8b44172d9038798882ef6e461cbd88"
+          }
+        },
+        {
+          "client_id": "837135663484-k4gcvvg7l4vamuqn5or91sfmkrpa5bb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkAsfpRTR3qUgtelPX9UhbPSSOFdd3rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837135663484-k4gcvvg7l4vamuqn5or91sfmkrpa5bb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837135663484-b3e249of9mdo7khvf4hujvuibv1ekcr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "erp.sse.net.vn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837135663484:android:2767cba2ad51ebbd5ce4f9",
+        "android_client_info": {
+          "package_name": "sse.net.vn.lobb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837135663484-u7itph1bmq111pku5olism65t9tpe953.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sse.net.vn.lobb",
+            "certificate_hash": "eb3746282d8b44172d9038798882ef6e461cbd88"
+          }
+        },
+        {
+          "client_id": "837135663484-k4gcvvg7l4vamuqn5or91sfmkrpa5bb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkAsfpRTR3qUgtelPX9UhbPSSOFdd3rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837135663484-k4gcvvg7l4vamuqn5or91sfmkrpa5bb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837135663484-b3e249of9mdo7khvf4hujvuibv1ekcr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "erp.sse.net.vn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837135663484:android:441216b2375817065ce4f9",
+        "android_client_info": {
+          "package_name": "vn.sse_erp.sse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837135663484-2bpfelelpie780464fd5dnjgd06kfqh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.sse_erp.sse",
+            "certificate_hash": "eb3746282d8b44172d9038798882ef6e461cbd88"
+          }
+        },
+        {
+          "client_id": "837135663484-k4gcvvg7l4vamuqn5or91sfmkrpa5bb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkAsfpRTR3qUgtelPX9UhbPSSOFdd3rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837135663484-k4gcvvg7l4vamuqn5or91sfmkrpa5bb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837135663484-b3e249of9mdo7khvf4hujvuibv1ekcr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "erp.sse.net.vn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
